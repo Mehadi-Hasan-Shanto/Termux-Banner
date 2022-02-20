@@ -1,0 +1,20 @@
+#!/bin/bash
+#banner
+
+echo '                          WELCOME TO TERMUX'|lolcat -a -s 99 -d 300
+
+clear
+
+printf '\e[032m▉▉▉▉▉
+   ▉▉▉▉▉
+      ▉▉▉▉▉
+         ▉▉▉▉▉
+            ▉▉▉▉▉
+               ▉▉▉▉
+                ▉▉▉▉▉▶
+               ▉▉▉▉
+            ▉▉▉▉▉
+         ▉▉▉▉▉
+      ▉▉▉▉▉              BLACK SHADOW
+   ▉▉▉▉▉
+▉▉▉▉▉                ▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉\n\n'
