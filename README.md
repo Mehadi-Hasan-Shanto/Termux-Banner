@@ -35,8 +35,8 @@ $ bash setup.sh
 
 
 
-a=Shanto
-print(a)
+
+
 
 
 
